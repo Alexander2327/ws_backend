@@ -22,7 +22,7 @@
     "url": "https://github.com/Alexander2327/ws_backend/issues"
   },
   "homepage": "https://github.com/Alexander2327/ws_backend#readme",
-  "devDependencies": {
+  "dependencies": {
     "forever": "^4.0.3",
     "http": "^0.0.1-security",
     "koa": "^2.14.2",
